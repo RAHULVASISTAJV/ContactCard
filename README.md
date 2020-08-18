@@ -1,4 +1,4 @@
-# mi_card_flutter
+# ContactCard
 
 A new Flutter application.
 
